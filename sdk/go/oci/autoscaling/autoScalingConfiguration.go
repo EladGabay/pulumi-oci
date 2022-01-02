@@ -21,7 +21,7 @@ import (
 // package main
 //
 // import (
-// 	"github.com/pulumi/pulumi-oci/sdk/go/oci/autoscaling"
+// 	"github.com/pulumi/pulumi-oci/sdk/v4/go/oci/autoscaling"
 // 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
 // )
 //

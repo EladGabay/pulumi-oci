@@ -26,7 +26,7 @@ import (
 // package main
 //
 // import (
-// 	"github.com/pulumi/pulumi-oci/sdk/go/oci/ocvp"
+// 	"github.com/pulumi/pulumi-oci/sdk/v4/go/oci/ocvp"
 // 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
 // )
 //

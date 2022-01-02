@@ -22,7 +22,7 @@ import (
 // package main
 //
 // import (
-// 	"github.com/pulumi/pulumi-oci/sdk/go/oci/analytics"
+// 	"github.com/pulumi/pulumi-oci/sdk/v4/go/oci/analytics"
 // 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
 // )
 //

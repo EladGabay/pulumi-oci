@@ -21,7 +21,7 @@ import (
 // package main
 //
 // import (
-// 	"github.com/pulumi/pulumi-oci/sdk/go/oci/datasafe"
+// 	"github.com/pulumi/pulumi-oci/sdk/v4/go/oci/datasafe"
 // 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
 // )
 //

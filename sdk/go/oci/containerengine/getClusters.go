@@ -17,7 +17,7 @@ import (
 // package main
 //
 // import (
-// 	"github.com/pulumi/pulumi-oci/sdk/go/oci/containerengine"
+// 	"github.com/pulumi/pulumi-oci/sdk/v4/go/oci/containerengine"
 // 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
 // )
 //
